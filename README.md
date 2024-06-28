@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am currently working in Product and Data, in the Healthcare industry.    
-I am fascinating with areas that are heavily regulated, like healthcare and fintech.
+I am fascinated working in regulated areas, like healthcare and fintech.
 
 I am a Physicist by education and I like good explanations and data. If you are looking for a book about good explanations, have a look at [The Beginning of Infinity](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity) by David Deutsch. 
 
