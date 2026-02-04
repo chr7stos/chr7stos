@@ -4,7 +4,6 @@ Say hi:
 [Linkedin](https://www.linkedin.com/in/chr7stos/)   
 [Twitter/X](https://twitter.com/chr7stos)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6IfV7M4ccwc?si=P1mt5hB1k5YWpJhO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <!--
 **chr7stos/chr7stos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
